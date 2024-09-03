@@ -8,7 +8,7 @@ import java.util.Random;
 
 /**
  * Runner for Tic-Tac-Toe game. Developed to experiment testing GUI.
- *
+ * Developed April 2022
  * @author Andrew Foerst
  */
 public class TicTacToe implements ActionListener{
